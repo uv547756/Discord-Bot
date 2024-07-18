@@ -1,0 +1,6 @@
+{
+  "token": "YOUR_DISCORD_BOT_TOKEN",
+  "clientId": "YOUR_SPOTIFY_CLIENT_ID",
+  "clientSecret": "YOUR_SPOTIFY_CLIENT_SECRET",
+  "redirectUri": "YOUR_SPOTIFY_REDIRECT_URI"
+}
