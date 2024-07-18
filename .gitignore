@@ -1,4 +1,6 @@
 config.json
+index1.js(malfunc)
+*.log
 .env
 *.pem
 *.key
